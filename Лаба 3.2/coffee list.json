@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Lavazza Tierra           ",
+    "type": "Зерна",
+    "weight": 1000,
+    "price": 249
+  },
+  {
+    "name": "Hausbrandt H.Hausbrand   ",
+    "type": "Зерна",
+    "weight": 800,
+    "price": 499
+  },
+  {
+    "name": "Starbucks Blonde         ",
+    "type": "Зерна",
+    "weight": 200,
+    "price": 209
+  },
+  {
+    "name": "Dallmayr Crema d'ORO     ",
+    "type": "Зерна",
+    "weight": 380,
+    "price": 245
+  },
+  {
+    "name": "Kurukahveci Mehmet Efendi",
+    "type": "Молотый",
+    "weight": 2000,
+    "price": 589
+  },
+  {
+    "name": "NESCAFE Gold             ",
+    "type": "Молотый",
+    "weight": 290,
+    "price": 265
+  },
+  {
+    "name": "Mr. Viet Real strong     ",
+    "type": "Молотый",
+    "weight": 1000,
+    "price": 479
+  },
+  {
+    "name": "The Welder Catherine     ",
+    "type": "Растворимый в банке",
+    "weight": 200,
+    "price": 229
+  },
+  {
+    "name": "Bushido Red Katana       ",
+    "type": "Растворимый в банке",
+    "weight": 500,
+    "price": 259
+  },
+  {
+    "name": "Carte Noire Original     ",
+    "type": "Растворимый в банке",
+    "weight": 150,
+    "price": 149
+  },
+  {
+    "name": "The Welder Catherine     ",
+    "type": "Растворимый в банке",
+    "weight": 1000,
+    "price": 639
+  },
+  {
+    "name": "Jacobs 3 в 1               ",
+    "type": "Растворимый в пакетиках",
+    "weight": 10,
+    "price": 5
+  }
+]
